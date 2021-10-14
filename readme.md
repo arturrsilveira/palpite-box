@@ -2,7 +2,8 @@
 # PalpiteBox - Semana Fullstack Master
 
 
-Este projeto foi construído curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
+<p>Este projeto foi construído curso Fullstack Master do [DevPleno](https://devpleno.com). 
+Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.</p>
 
 ![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
 
@@ -17,10 +18,10 @@ Este projeto foi construído curso Fullstack Master do [DevPleno](https://devple
 
 Você precisa do NodeJS e do NPM instalado em sua máquina.
 
-```
+``
 yarn install
 yarn run dev
-```
+``
 
 ## 
 
