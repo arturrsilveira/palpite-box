@@ -56,6 +56,11 @@ SHEET_DOC_ID=id da planilha
 ## 
 
 
+## Acknowledgments
+
+- **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+
+
 ## 📝 Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).<br>
 Feito com ❤️ por Artur Rafael da Silveira
@@ -67,9 +72,3 @@ Feito com ❤️ por Artur Rafael da Silveira
 [![Gmail Badge](https://img.shields.io/badge/-arturrsilveira85@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturrsilveira85@gmail.com)]
 
 (mailto:arturrsilveira85@gmail.com)
-
-
-## Acknowledgments
-
-- **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
-
