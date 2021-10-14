@@ -60,7 +60,6 @@ SHEET_DOC_ID=id da planilha
 
 - **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
 
-##
 
 ---
 ## 📝 Licença
