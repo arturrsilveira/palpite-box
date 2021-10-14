@@ -18,10 +18,10 @@ Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tul
 
 Você precisa do NodeJS e do NPM instalado em sua máquina.
 
-``
+```
 yarn install
 yarn run dev
-``
+```
 
 ## 
 
